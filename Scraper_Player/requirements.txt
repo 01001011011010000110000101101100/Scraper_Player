@@ -1,0 +1,5 @@
+pyside6>=6.11.1
+httpx>=0.28.1
+qasync>=0.28.0
+beautifulsoup4>=4.15.0
+lxml>=6.1.1
