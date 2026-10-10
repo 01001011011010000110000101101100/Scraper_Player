@@ -18,7 +18,7 @@
 
     Modern interface with an elegant design (`PySide6` / `Qt6`): a lightweight and responsive graphical interface with options for browsing, searching, and displaying details in nested pages (`QStackedWidget`). In addition, Lazy/Async Image Loading: the cards are created first, then the posters and images are loaded accurately and discreetly to ensure a fast response to the interface.
 
-    Operating external and built-in drivers: automatic recognition of video players installed in the operating system (such as `MPV`, `VLC`, `Celluloid`, `PotPlayer`, `IINA`). On the other hand, use the built-in video player (`VLC`) to play the video without need to quite from the application
+    Operating external and built-in drivers: automatic recognition of video players installed in the operating system (such as `MPV`, `VLC`, `Celluloid`, `PotPlayer`, `IINA`).
 - ### Robustness & Error Handling:
 
     Type Checking & Validation: checking transaction types such as `httpx.URL` and avoiding errors during operation. Moreover, Comprehensive Logging: logging details and operational exceptions in the app.log file facilitates problem tracking and resolution.
